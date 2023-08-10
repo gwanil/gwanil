@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-#### 👋 Welcom my github profile! 👋
+### 👋 Welcom my github profile! 👋
 
 <br/>
 <br/>
 
-### 📚 Tech Stack 📚
+#### 📚 Tech Stack 📚
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visul Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
