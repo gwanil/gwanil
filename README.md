@@ -25,12 +25,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visul Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visul Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<br/>
 <!-- <img src="https://img.shields.io/badge/Visul studio code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> -->
 
  <img src="https://img.shields.io/badge/C-a8b9cc?style=flat&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/C++-00599c?style=flat&logo=cplusplus&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
  
  <br/>
 
